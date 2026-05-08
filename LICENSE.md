@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with professional Alfred for macOS Macro | goal tracking + custom shortcuts, the #1 macro. Includes goal tracking and custom shortcuts for a smoother
 
 
 
